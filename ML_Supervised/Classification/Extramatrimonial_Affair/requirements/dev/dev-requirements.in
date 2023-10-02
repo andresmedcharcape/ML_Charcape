@@ -1,0 +1,11 @@
+ipykernel
+pip-tools
+pandas
+matplotlib
+seaborn
+python-dotenv
+scipy
+missingno
+scikit-learn
+pingouin
+imblearn
